@@ -1,4 +1,5 @@
 # Calculating a random matrix and calculate the Inverse
+# Just an example file to understand how to generate inverse matrices
 
 # Matrix inverse AB = BA = I_n
 
